@@ -1,0 +1,15 @@
+body{
+    background-color: papayawhip;
+    color: black;
+    text-align: left;
+    background-image: url("https://www.upmedia.mg/upload/article/20200306185855633497.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin:10vh;
+    border: 20px solid rgba(0, 238, 255, 0.87);
+    padding: 20px;
+    border-radius: 30px;
+    
+}
